@@ -209,7 +209,6 @@ me.say_hi()
   <img alt="GitHub Contribution Snake Animation - A snake eating my GitHub contributions" src="https://raw.githubusercontent.com/sahadipanjan/sahadipanjan/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-> **Note:** If the snake animation doesn't appear, it may still be generating. You can manually trigger it from the [Actions tab](https://github.com/sahadipanjan/sahadipanjan/actions/workflows/snake.yml) by clicking "Run workflow".
 
 </div>
 
